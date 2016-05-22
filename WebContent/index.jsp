@@ -15,6 +15,7 @@ $(function(){
 	$(".panel-heading").click(function(){
 		$(this).next().toggle();
 	　　});
+	//如果panel只有一个，默认展开
 })
 	
 </script>
@@ -73,6 +74,10 @@ $(function(){
 				<div class="sidebar-module sidebar-module-inset">
 		            <h4>About</h4>
 		            <div class="well">
+						<p>给新来的孩子留下点什么</p>
+						<p>给提莫的蘑菇来个真眼！</p>
+						<p>前人栽树，后人乘凉</p>
+						<p>为了不让别人也跳下你这个坑！</p>
 			       		 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sed diam eget risus varius blandit sit amet non magna. Lorem 
 							ipsum dolor sit amet, consectetur adipiscing elit. Praesent commodo 
 							cursus magna, vel scelerisque nisl consectetur et. Cras mattis 
